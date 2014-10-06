@@ -2,7 +2,7 @@
 //  PostcardTests.swift
 //  PostcardTests
 //
-//  Created by Fiona on 06/10/2014.
+//  Created by Lochlanon 06/10/2014.
 //  Copyright (c) 2014 Lochlan. All rights reserved.
 //
 
